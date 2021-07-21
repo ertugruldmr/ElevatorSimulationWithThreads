@@ -2,11 +2,11 @@
 This project is a simulation of a elevator working.It was Used java Threads for simulation.This project developed for learning that concepts Multithreading, Concurrency, Resource Allocation.
 ## Project description
 
-check "Project Description.pdf" where in the "Project Material" folder if you want to know project description about problem,goal of the project etc.
+Check "Project Description.pdf" where in the "Project Material" folder if you want to know project description about problem,goal of the project etc.
 
-## Method & which used in this project
+## Method which used in this project
 
-check "Rapor.pdf" file where in the "Report and Outputs" folder if you want to know project how to build.
+Check "Rapor.pdf" file where in the "Report and Outputs" folder if you want to know project how to build.
 
 
 ## PROJECT SUMMARY
@@ -28,7 +28,7 @@ Threads:
 		--> It takes consumers from queues where in the flats.
 		--> It Transports consumers to aimed flat.
 
-check "## Project description" and "## Method & which used in this project" sections where above if you want more information.
+Check "## Project description" and "## Method & which used in this project" sections where above if you want more information.
 
 
 Images is below while project has been running
