@@ -12,9 +12,11 @@ check "Rapor.pdf" file where in the "Report and Outputs" folder if you want to k
 ## PROJECT SUMMARY
 
 Task:
+
 	there is a mall which too much customers enters and exits. 
 	The Task is providing to move customers to aimed location through most efficient thread working.
-Threads
+Threads:
+
 	Login Thread
 		--> Produces consumers and sends for transport to consumters' aim queue.
 	Exit Thread
@@ -25,6 +27,7 @@ Threads
 		--> There are 5 lifter thread and the mall have 5 count of flat.
 		--> It takes consumers from queues where in the flats.
 		--> It Transports consumers to aimed flat.
+
 check "## Project description" and "## Method & which used in this project" sections where above if you want more information.
 
 
